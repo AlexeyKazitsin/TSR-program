@@ -1,2 +1,3 @@
 # TSR-program
-Резидентная программа (TSR) под MS DOS (Assembler)
+Резидентная программа (TSR) под MS DOS (Assembler).
+Курсовая работа.
